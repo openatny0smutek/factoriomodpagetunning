@@ -10,5 +10,5 @@ function dynamicallyLoadScript(url, callback) {
 dynamicallyLoadScript("https://cdnjs.cloudflare.com/ajax/libs/linq.js/2.2.0.2/linq.min.js", Run);
 
 function Run() {
-    
+    alert("i am working");
 }
